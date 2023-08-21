@@ -8,6 +8,6 @@ terraform {
 }
 
 provider "aws" {
-  profile = "pro-terra"
+  profile = "youraws_profile_access_secret_keys"
   region  = "us-east-1"
 }
